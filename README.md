@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo Campanha 👋
+# Olá, eu sou o Paulo Campanha
 
 Profissional da área de Tecnologia da Informação com mais de 30 anos de experiência na formação de novos talentos. Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** formado pela **FATEC** e atuo como **Professor de Informática e Programação** desde 1994.
 
@@ -6,7 +6,7 @@ O objetivo deste perfil é centralizar meus projetos acadêmicos, materiais de a
 
 ---
 
-## 👨‍🏫 Atuação Didática & Competências
+## Atuação Didática & Competências
 
 Ao longo da minha trajetória, venho lecionando e desenvolvendo materiais focados em:
 
