@@ -29,14 +29,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
 
 ---
 
-## Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulocampanha&show_icons=true&theme=radial" alt="Estatísticas do GitHub de Paulo Campanha" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocampanha&layout=compact&theme=radial" alt="Linguagens mais usadas por Paulo Campanha" height="150" />
-</p>
-
----
 
 ## Conecte-se Comigo
 
