@@ -16,7 +16,7 @@ Ao longo da minha trajetória, venho lecionando e desenvolvendo materiais focado
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvimento e ensino:
 
@@ -29,7 +29,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paulocampanha&show_icons=true&theme=radial" alt="Estatísticas do GitHub de Paulo Campanha" height="150" />
@@ -38,7 +38,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
 
 ---
 
-## 🌐 Conecte-se Comigo
+## Conecte-se Comigo
 
 Para propostas, parcerias acadêmicas ou networking:
 
