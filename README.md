@@ -42,7 +42,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
 
 Para propostas, parcerias acadêmicas ou networking:
 
-*   💼 **LinkedIn:** [Paulo Campanha](www.linkedin.com/in/paulocampanha)
-*   📧 **E-mail:** [paulocampanha@hotmail.com](mailto:paulocampanha@hotmail.com)
+*  **LinkedIn:** [Paulo Campanha](www.linkedin.com/in/paulocampanha)
+*  **E-mail:** [paulocampanha@hotmail.com](mailto:paulocampanha@hotmail.com)
 
 *Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.*
